@@ -18,7 +18,7 @@ pip install -r requirements.txt
 wget https://storage.googleapis.com/obstacle-tower-build/v2.2/obstacletower_v2.2_linux.zip
 ```
 
-Extract zip file and copy internal folder project root and save as `ObstacleTower` (change this in basics.py).
+Extract zip file and copy internal folder into project root and save as `ObstacleTower` (change this in basics.py).
 
 ## How to Run
 
